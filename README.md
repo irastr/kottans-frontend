@@ -1,11 +1,11 @@
-# kottans-frontend :octocat: :mortar_board:
+# kottans-frontend :mortar_board:
 
 _Welcome to my reflections about Stage 0 of Front-End course by Kottans._
 
- - [x][Git and GitHub Intro] (https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
- - [x][Linux, Command Line, HTTP Tools] (https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
- - [x][Git for Team Collaboration] (https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
- - [ ][Intro to HTML and CSS] (https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)
+ - [x] [Git and GitHub Intro](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
+ - [x] [Linux, Command Line, HTTP Tools](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
+ - [x] [Git for Team Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
+ - [ ] [Intro to HTML and CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)
 
 
 Git and GitHub
