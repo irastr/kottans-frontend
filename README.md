@@ -24,3 +24,19 @@ Speaking about 2 articles about HTTP: it was new for me to learn about connectio
 
 Git for Team Collaboration
 =======
+
+###### [What is Version Control](https://classroom.udacity.com/courses/ud123/)
+
+![git-collab](task_git_collaboration/git1.png)
+
+I wish it was my first course about git, so understandable and intelligible! Although there was a lot of things known to me, there was something new for me:
+
+* how to navigate the log
+* commands  git log --oneline git log --stat used to  alter how git log displays information
+* git tagging responsible for the version of the project
+* git commit --amend - to change the most recent commit
+* git revert <SHA-of-commit-to-revert> - reverse given commit
+* git reset <reference-to-commit> - to delete the commit 
+
+I would all of it in my future projects.
+
