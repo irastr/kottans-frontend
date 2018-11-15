@@ -13,3 +13,4 @@ Codecademy course about CLI was extremely useful for we.  I have learnt a lot of
 ![cli](task_linux_cli/cli.png)
 
 Speaking about 2 articles about HTTP: it was new for me to learn about connection handling,  authentication and caching. Also i didn’t know about the tool called Chrome/Webkit inspector.  I would definitely use it in the future. I hope i will deepen my knowledge while having a real practise with HTTP and learning more about it. 
+
