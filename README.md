@@ -41,3 +41,14 @@ Although there was a lot of things known to me, there was something new for me:
 
 I would use all of it in my future projects.
 
+###### 1. [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
+
+![github](task_git_collaboration/git2.png)
+
+Another greact course about GitHub. New for me in it:
+
+* difference between git fetch and git pull:  git pull only downloads new data from a remote repository -  it doesn't integrate any of this new data into the local branch. Git pull in not only downloads new data, it also directly merges it into your current local branch. You should not have any uncommitted local changes before you pull. You have to push before you pull. If you don’t want to do it you can use fetch. 
+* difference between fork and clone: with fork a new duplicate copy of the remote repository is created. With clone the remote stays the same.
+* $ git shortlog -  to see how many commits each contributor has added to the repository
+* i’ve learnt about GitHub Issues
+* squashing commits (taking their numbers and combining them in one single commit for cleaner git log). $ git rebase -i HEAD~3 - will combine last 3 commits.
